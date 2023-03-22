@@ -5,7 +5,7 @@ body {
   flex-flow: column wrap;
   font-family: Raleway, sans-serif;
   justify-content: center;
-  overflow: hidden;
+  /* overflow: hidden; */
   width: 100vw;
 }
 
@@ -17,6 +17,7 @@ h1 {
 h3 {
   font-size: 25px;
   margin: 0;
+  color: #41197f;
 }
 
 p {
@@ -66,6 +67,27 @@ p strong {
   background-color: #41197f;
 }
 
-@media screen and (min-width: 500px) {
-     
+@media (min-width: 500px) {
+    body > main > section > div:nth-child(1)  {
+        display: block;
+    }
+}
+
+@media (min-width: 600px) and (max-width: 1000px) {
+    body > main > section > div:nth-child(2) {
+        display: block;
+    }
+   
+}
+
+@media (min-width: 650px) and (max-width: 950px) {
+    body > main > section > div:nth-child(3) {
+        display: block;
+    }
+}
+
+@media (max-width: 500px) {
+    p.trick  {
+        color: #525252;
+    }
 }
