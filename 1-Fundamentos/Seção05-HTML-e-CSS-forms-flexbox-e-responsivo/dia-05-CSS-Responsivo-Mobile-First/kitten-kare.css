@@ -113,3 +113,43 @@ body {
         padding: 14px;
     }
   }
+
+  @media (max-width: 550px) {
+    main {
+        background-color: aquamarine;
+    }
+    #aside {
+        display: none;
+    }
+    body {
+        padding: 0;
+        background-color: rgb(131, 14, 146);
+    }
+    img {
+        width: 140%;
+    }
+    #container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    #navigation{
+        width: 96%;
+        margin: 2% 2%;
+        margin-top: 80px;
+    }
+    #navigation > ul {
+        display: flex;
+        flex-direction: column;
+        
+    }
+    #navigation li a {
+        border-right: 1px solid #333;
+    }
+    #header {
+        top: 0;
+        position: fixed;
+        z-index: 4;
+        width: 100%;
+    }
+  }
