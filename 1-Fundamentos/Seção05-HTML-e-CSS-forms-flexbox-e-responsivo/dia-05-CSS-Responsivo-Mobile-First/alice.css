@@ -1,0 +1,38 @@
+
+html {
+    box-sizing: border-box;
+  }
+  
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+
+  body {
+    margin: 5%;
+  }
+  
+  
+@media (max-width: 600px) {
+    body {
+        background-color: aqua;
+    }
+   /*  .container {
+        display: flex;
+        flex-direction: column;
+    } */
+    header > p {
+        text-align: center;
+        font-size: x-large;
+        font-weight: 700;
+    }
+    .aside-one {
+        /* float: left; */
+    }
+    nav > ul {
+        display: flex;
+        justify-content: space-evenly;
+        padding-left: 0;
+        list-style: none;
+    }
+
+}
