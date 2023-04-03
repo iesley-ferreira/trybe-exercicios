@@ -191,6 +191,9 @@
     "yocto-queue": "^0.1.0"
   },
   "devDependencies": {
+    "eslint": "^8.37.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5",
     "jest": "^29.5.0"
   },
   "scripts": {
