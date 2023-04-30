@@ -1,4 +1,27 @@
 {
-    "docwriter.style": "Auto-detect",
-    "liveServer.settings.port": 5501
+  "docwriter.style": "Auto-detect",
+  "liveServer.settings.port": 5501,
+  "cSpell.words": [
+    "portugues"
+  ],
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#3d393f",
+    "activityBar.background": "#3d393f",
+    "activityBar.foreground": "#e7e7e7",
+    "activityBar.inactiveForeground": "#e7e7e799",
+    "activityBarBadge.background": "#8f7030",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "commandCenter.border": "#e7e7e799",
+    "sash.hoverBorder": "#3d393f",
+    "statusBar.background": "#232124",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#3d393f",
+    "statusBarItem.remoteBackground": "#232124",
+    "statusBarItem.remoteForeground": "#e7e7e7",
+    "titleBar.activeBackground": "#232124",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#23212499",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  },
+  "peacock.color": "#232124"
 }
