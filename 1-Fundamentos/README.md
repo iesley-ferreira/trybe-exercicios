@@ -1,6 +1,6 @@
-# Fundamentos
+# Fundamentos :white_check_mark:
 
-Nesse módulo aprendi:
+##Nesse módulo aprendi:
 
 - `git`, comandos e funcionamento.
 - `github`, como trabalhar em equipe.
