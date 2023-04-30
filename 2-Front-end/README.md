@@ -1,6 +1,6 @@
 # Front-end :hourglass_flowing_sand:
 
-##Nesse módulo aprendi:
+## Nesse módulo aprendi:
 
 - `Ambiente de desenvolvimento` - como preparar o ambiente.
 - `JavaScript assíncrono` - como tratar promises com then.

@@ -1,16 +1,16 @@
 # Fundamentos :white_check_mark:
 
-##Nesse módulo aprendi:
+## Nesse módulo aprendi:
 
-- `git`, comandos e funcionamento.
-- `github`, como trabalhar em equipe.
-- `HTML`, tags, semântica, formulários, classes, id. 
-- `CSS`, posicionamento, flexBox, responsividade, mobile-first.
-- `JavaScript`, arrays, loops, funções, objetos, declaração de variáveis, arrowFunctions.
-- `DOM`, seletores, elementos, eventos, web-storage.
-- `Bibliotecas e Frameworks`, Bootstrap.
-- `Testes Unitários`, Jest, matchers, cobertura de código, TDD
-- `High Order Functions`, map, forEach, filter, come, sort, every, find, reduce, spread, rest, desestruturação de objetos.
+- `git` - comandos e funcionamento.
+- `github` - como trabalhar em equipe.
+- `HTML` - tags, semântica, formulários, classes, id. 
+- `CSS` - posicionamento, flexBox, responsividade, mobile-first.
+- `JavaScript` - arrays, loops, funções, objetos, declaração de variáveis, arrowFunctions.
+- `DOM` - seletores, elementos, eventos, web-storage.
+- `Bibliotecas e Frameworks` - Bootstrap.
+- `Testes Unitários` - Jest, matchers, cobertura de código, TDD
+- `High Order Functions` - map, forEach, filter, come, sort, every, find, reduce, spread, rest, desestruturação de objetos.
 
 
 
